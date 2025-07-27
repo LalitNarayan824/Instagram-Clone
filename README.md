@@ -25,12 +25,11 @@ A powerful full-stack Instagram clone built with **MERN Stack** featuring real-t
 ✅ Real-Time Chat with Socket.IO  
 ✅ Stories that disappear in 24 hours  
 ✅ Like, Comment, and Post System  
-✅ Live Notifications 🔔  
 ✅ Follow / Unfollow Users  
 ✅ Clean & Responsive UI (TailwindCSS)  
 ✅ Secure JWT Authentication  
 ✅ Upload Images & Videos with Cloudinary  
-✅ Dark & Light Mode Support  
+ 
 
 ---
 
