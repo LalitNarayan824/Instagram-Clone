@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# dotenv files
+.env
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# OS or IDE files
+.DS_Store
+Thumbs.db
+
+# optional cache / build files
+dist/
+build/
